@@ -88,4 +88,9 @@ void q_short(int low, int high)
 	//recursive call to sor the right sub array
 
 	q_short(j + i, high); //step 13
+
+
 }
+
+
+void display

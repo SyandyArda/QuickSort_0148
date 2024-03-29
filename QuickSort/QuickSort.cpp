@@ -29,4 +29,4 @@ void input() {
 		cin >> arr[i];
 	}
 }
-
+//swaps the element at inde x with the element at index y

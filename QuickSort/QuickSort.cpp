@@ -106,4 +106,11 @@ void display() {
 	cout << "\n\nNumber of comparasion: " << cmp_count << endl;
 	cout << "Number of data movements: " << mov_count << endl;
 }
-int main
+int main()
+{
+	char ch;
+
+	do {
+		input
+	}
+}
